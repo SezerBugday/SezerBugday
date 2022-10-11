@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sezer</h1>
 <h3 align="center">I am a game and backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sezerbugday&label=Profile%20views&color=0e75b6&style=flat" alt="sezerbugday" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezerbugday" alt="sezerbugday" /></a> </p>
 
