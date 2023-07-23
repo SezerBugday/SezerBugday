@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sezer</h1>
-<h3 align="center">I am a game and backend developer</h3>
+<h3 align="center">I am a game developer and backend developer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezerbugday" alt="sezerbugday" /></a> </p>
