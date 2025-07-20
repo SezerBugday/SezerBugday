@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sezerbugday" alt="sezerbugday" /></a> </p>
 
-- 👨‍💻 All of my game projects are available at [sezerious.com](sezerious.com)
+- 👨‍💻 All of my game projects are available at [devops.sezerious.com](devops.sezerious.com)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
